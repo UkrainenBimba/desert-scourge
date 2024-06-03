@@ -1,0 +1,15 @@
+[
+  {
+    "function": "minecraft:set_damage",
+    "damage": {
+      "type": "minecraft:score",
+      "target": {
+        "type": "minecraft:fixed",
+        "name": "*itemDamage"
+      },
+      "score": "math",
+      "scale": -0.047619
+    },
+    "add": false
+  }
+]

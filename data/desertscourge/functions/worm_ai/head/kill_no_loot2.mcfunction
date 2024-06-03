@@ -1,0 +1,1 @@
+$bossbar remove desert_scourge_$(index)

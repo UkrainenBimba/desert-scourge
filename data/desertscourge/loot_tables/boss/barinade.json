@@ -1,0 +1,40 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:bow",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_name",
+                            "entity": "this",
+                            "target": "custom_name",
+                            "name": {
+                                "fallback": "Barinade",
+                                "italic": false,
+                                "translate": "item.barinade.name"
+                            }
+                        },
+                        {
+                            "function": "minecraft:set_custom_data",
+                            "tag": "{barinade:1}"
+                        },
+                        {
+                            "function": "minecraft:set_custom_model_data",
+                            "value": 2385706
+                        },
+                        {
+                            "function": "minecraft:set_components",
+                            "components": {
+                                "minecraft:max_damage": 456,
+                                "minecraft:rarity": "epic"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

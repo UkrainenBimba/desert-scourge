@@ -1,0 +1,22 @@
+{
+  "pack": {
+    "pack_format": 41,
+    "description": [
+      {
+        "text": "Adds new unique boss\n",
+        "color": "gray",
+        "italic": false
+      },
+      {
+        "text": "Made by Bimba",
+        "color": "gold",
+        "italic": false
+      }
+    ]
+  },
+  "features": {
+    "enabled": [
+      "bundle"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+$execute positioned ~ ~-24 ~ rotated $(rotation) ~ positioned ^ ^ ^12 run function desertscourge:worm_create/init with storage desertscourge:temp spawn_worm

@@ -1,0 +1,1 @@
+$execute store result score *sin math run data get storage desertscourge:const sineTable[$(angle)]

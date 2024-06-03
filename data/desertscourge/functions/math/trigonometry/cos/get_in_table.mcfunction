@@ -1,0 +1,1 @@
+$execute store result score *cos math run data get storage desertscourge:const cosineTable[$(angle)]

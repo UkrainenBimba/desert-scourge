@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:heart_of_the_sea",
+      "components": {
+        "minecraft:custom_model_data": 2385700
+      }
+    },
+    "title": {
+      "translate": "adv.gift_of_aeolus.name",
+      "fallback": "Gift of Aeolus"
+    },
+    "description": {
+      "translate": "adv.gift_of_aeolus.desc",
+      "fallback": "Use the Bundle on the Sand Tornado, trapping the winds in it"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "desertscourge:root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

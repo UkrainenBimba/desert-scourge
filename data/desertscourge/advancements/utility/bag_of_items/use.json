@@ -1,0 +1,36 @@
+{
+    "criteria": {
+      "requirements": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:inverted",
+              "term": {
+                "condition": "minecraft:entity_scores",
+                "entity": "this",
+                "scores": {
+                  "bagOfWindsCooldown": {
+                    "min": 0,
+                    "max": 20
+                  }
+                }
+              }
+            }
+          ],
+          "item": {
+            "items": [
+              "minecraft:heart_of_the_sea"
+            ],
+            "predicates": {
+              "minecraft:custom_data": "{bag_of_winds:1}"
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "desertscourge:items/bag_of_winds/use"
+    }
+  }
+  
