@@ -1,0 +1,8 @@
+{
+    "asset_id": "desertscourge:dunerider_boots",
+    "decal": false,
+    "description": {
+      "text": " "
+    },
+    "template_item": "minecraft:bolt_armor_trim_smithing_template"
+  }

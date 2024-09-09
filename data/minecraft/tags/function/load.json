@@ -1,0 +1,7 @@
+{
+    "values": [
+        "desertscourge:setup",
+        "bdlib:setup",
+        "player_motion:internal/technical/load"
+    ]
+}

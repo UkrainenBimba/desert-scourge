@@ -1,0 +1,2 @@
+execute store result storage desertscourge:temp item.speed float 0.005 run scoreboard players get @s duneriderBootsTimer
+function desertscourge:items/dunerider_boots/speed_up_macros with storage desertscourge:temp item

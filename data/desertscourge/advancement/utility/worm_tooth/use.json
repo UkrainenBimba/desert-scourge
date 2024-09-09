@@ -1,0 +1,32 @@
+{
+  "criteria": {
+    "requirements": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "player": {
+          "slots": {
+            "weapon.mainhand": {
+              "items": [
+                "minecraft:iron_sword"
+              ],
+              "predicates": {
+                "minecraft:custom_data": "{worm_tooth:1}"
+              }
+            }
+          }
+        },
+        "item": {
+          "items": [
+            "minecraft:iron_sword"
+          ],
+          "predicates": {
+            "minecraft:custom_data": "{worm_tooth:1}"
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "desertscourge:items/worm_tooth/use"
+  }
+}

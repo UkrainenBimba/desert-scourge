@@ -1,0 +1,1 @@
+$execute as @e[type=!#bdlib:entity,distance=..256,predicate=desertscourge:id_system/worm_tooth_id,limit=1] at @s rotated as @e[type=item_display,predicate=desertscourge:id_system/worm_tooth_id,limit=1] run tp @s ^ ^ ^-$(dist)

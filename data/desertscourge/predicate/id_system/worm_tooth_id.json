@@ -1,0 +1,25 @@
+{
+    "condition": "minecraft:entity_scores",
+    "entity": "this",
+    "scores": {
+      "wormToothID": {
+        "min": {
+          "type": "minecraft:score",
+          "target": {
+            "type": "minecraft:fixed",
+            "name": "*temp"
+          },
+          "score": "wormToothID"
+        },
+        "max": {
+          "type": "minecraft:score",
+          "target": {
+            "type": "minecraft:fixed",
+            "name": "*temp"
+          },
+          "score": "wormToothID"
+        }
+      }
+    }
+  }
+  

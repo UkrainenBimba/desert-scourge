@@ -1,0 +1,1 @@
+$attribute @s generic.movement_speed modifier add item.dunerider_boots $(speed) add_multiplied_total

@@ -1,0 +1,22 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "value": "desertscourge:boss/barinade"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "desertscourge:boss/dunerider_boots"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "value": "desertscourge:boss/amulet_of_winds"
+          }
+        ]
+      }
+    ]
+  }
+  

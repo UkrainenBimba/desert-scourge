@@ -1,0 +1,1 @@
+$execute positioned ~ $(y) ~ run function desertscourge:worm_ai/loot/loot_head

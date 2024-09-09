@@ -1,0 +1,3 @@
+give @s firework_star[max_stack_size=1,max_damage=75,item_name='{"translate":"item.amulet_of_winds.name"}',lore=['{"text":" "}','{"color":"gray","italic":false,"translate":"other.when_in_inventory"}','{"color":"dark_green","italic":false,"translate":"item.amulet_of_winds.lore"}'],rarity="epic",custom_model_data=2385707,custom_data={amulet_of_winds:1},damage=0] 1
+
+scoreboard players reset @s desertscourge.give.amulet_of_winds

@@ -1,0 +1,2 @@
+data remove storage bdlib:temp block.offset
+$execute store success score #HAS bdlib.block.offset run data modify storage bdlib:temp block.offset set from storage bdlib:temp block.offsets[{coords:[$(x), $(z)]}]

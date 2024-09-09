@@ -1,0 +1,13 @@
+[
+    {
+      "function": "minecraft:set_damage",
+      "damage": {
+        "type": "minecraft:score",
+        "target": "this",
+        "score": "amuletOfWindsFallDist",
+        "scale": -0.0134
+      },
+      "add": true
+    }
+  ]
+  

@@ -1,0 +1,1 @@
+$return run data get storage bdlib:const tables.easing.expo.in_out[$(index)]

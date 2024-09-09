@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "item": {
+            "items": "minecraft:shield"
+          }
+        }
+      }
+    },
+    "rewards": {"function": "desertscourge:player/using_shield"}
+  }
+  

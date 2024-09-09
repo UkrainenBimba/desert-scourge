@@ -1,0 +1,3 @@
+give @s diamond_boots[custom_model_data=2385708,trim={material:"minecraft:quartz",pattern:"desertscourge:dunerider_boots",show_in_tooltip:false},item_name='{"translate":"item.dunerider_boots.name"}',rarity="epic",max_damage=350,custom_data={dunerider_boots:1},lore=['{"text":" "}','{"translate": "item.modifiers.feet","italic": false, "color": "gray"}','{"translate":"item.dunerider_boots.lore","italic": false,"color": "dark_green"}']] 1
+
+scoreboard players reset @s desertscourge.give.dunerider_boots

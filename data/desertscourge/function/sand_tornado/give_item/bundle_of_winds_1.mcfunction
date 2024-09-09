@@ -1,0 +1,3 @@
+playsound minecraft:entity.breeze.slide player @s ~ ~ ~ 1 2
+item replace entity @s weapon.mainhand with heart_of_the_sea[max_stack_size=1,max_damage=20,damage=0,custom_name='{"fallback":"Bag of Winds","italic":false,"translate":"item.bag_of_winds.name"}',lore=['" "','{"color":"gray","fallback":"When Used in Hands: ","italic":false,"translate":"other.when_used_in_hands"}','{"color":"dark_green","fallback":" Player Makes a Dash","italic":false,"translate":"item.bag_of_winds.lore"}'],food={saturation:1,nutrition:1,can_always_eat:true,eat_seconds:999999999},custom_model_data=2385700,rarity="rare",custom_data={bag_of_winds:1}] 1
+advancement grant @s only desertscourge:gift_of_aeolus

@@ -1,0 +1,1 @@
+execute as @e[type=!#bdlib:entity,predicate=desertscourge:other/barinade_hit,predicate=desertscourge:player/on_ground,limit=1] at @s run function desertscourge:items/barinade/arrow/motion

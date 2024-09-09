@@ -1,0 +1,2 @@
+ride @a[tag=id,predicate=desertscourge:id_system/player_id,limit=1] mount @e[type=item_display,tag=worm.tooth.player_tp,predicate=desertscourge:id_system/worm_tooth_id,distance=..64,limit=1]
+execute positioned as @e[type=item_display,tag=worm.tooth.player_tp,predicate=desertscourge:id_system/worm_tooth_id,distance=..64,limit=1] facing entity @s eyes positioned ^ ^ ^0.5 run function desertscourge:items/worm_tooth/heavy/loop

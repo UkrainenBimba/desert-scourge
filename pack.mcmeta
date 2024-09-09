@@ -1,6 +1,6 @@
 {
   "pack": {
-    "pack_format": 41,
+    "pack_format": 48,
     "description": [
       {
         "text": "Adds new unique boss\n",
@@ -12,11 +12,6 @@
         "color": "gold",
         "italic": false
       }
-    ]
-  },
-  "features": {
-    "enabled": [
-      "bundle"
     ]
   }
 }

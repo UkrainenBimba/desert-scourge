@@ -1,0 +1,3 @@
+give @s goat_horn[custom_name='{"fallback":"Suspicious Horn","italic":false,"translate":"item.suspicious_horn.name"}',lore=['{"color":"gold","fallback":"\\"...There is always a bigger fish in the sea.\\"","italic":false,"translate":"item.suspicious_horn.lore"}'],rarity="rare",custom_model_data=2385701,custom_data={suspicious_horn:1},instrument="minecraft:yearn_goat_horn",hide_additional_tooltip={}]
+
+scoreboard players reset @s give.suspicious_horn
